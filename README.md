@@ -1,4 +1,4 @@
-# JPMorgan-Hackathon-Backend
+# jpmorgan-hackathon-backend
 My portion of a team project built for JP Morgan's Code For Good hackathon in 2020. 
 
 This backend is a Python API built with Flask-RESTPlus.
